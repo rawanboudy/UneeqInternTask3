@@ -7,6 +7,14 @@
 
 
 
+## Features
+Modern UI/UX: A clean, sleek design with smooth transitions and advanced music item cards for a professional feel.
+Play, Pause & Navigation Controls: Users can easily control playback with intuitive play, pause, next, and previous buttons.
+Dynamic Playlist Management: Browse and manage your playlist with an elegant interface, showing song details, images, and artist names.
+Highlight Playing Song: The currently playing song is visually highlighted with a unique color scheme.
+
+
+
 ## Design
 Gradient Theme: The app uses a combination of gradient background colors, such as soft pink and light cream, for a soothing look.
 Music Item Design: Each music item is designed with rounded corners, shadow effects, and a large album image for a modern appearance.
@@ -23,10 +31,6 @@ Android Studio: IDE used for development, debugging, and running Android applica
 
 
 
-## Features
-Modern UI/UX: A clean, sleek design with smooth transitions and advanced music item cards for a professional feel.
-Play, Pause & Navigation Controls: Users can easily control playback with intuitive play, pause, next, and previous buttons.
-Dynamic Playlist Management: Browse and manage your playlist with an elegant interface, showing song details, images, and artist names.
-Highlight Playing Song: The currently playing song is visually highlighted with a unique color scheme.
+
 
 
